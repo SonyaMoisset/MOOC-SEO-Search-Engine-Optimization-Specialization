@@ -13,4 +13,4 @@ This Specialization will teach you to optimize website content for the best poss
 ## Updates
 ### 09/02/2016
 - Enrolled in the program
-- Finished Week 1 | Software Product Management - The Discipline in Course 1 | Introduction to Search Engine Optimization
+- Finished Week 1 | Getting Started & Introduction to SEO in Course 1 | Introduction to Search Engine Optimization
