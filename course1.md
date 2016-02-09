@@ -10,3 +10,8 @@ Learn the foundational elements of how search engines work, how the SEO landscap
 - SEO Manager: Rebekah May
 - In-house SEO Professional: Dave Lloyd
 - Review
+
+#### Week 2
+##### Evolution of SEO
+- Evolution of SEO
+- Review
