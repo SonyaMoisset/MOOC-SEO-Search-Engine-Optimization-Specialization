@@ -20,3 +20,9 @@ Learn the foundational elements of how search engines work, how the SEO landscap
 ##### Current SEO Best Practices
 - Current SEO Best Practices
 - Review
+
+#### Week 4
+##### SEO of Today, Tomorrow and Beyond & Course Wrap-Up
+- SEO of Today, Tomorrow and Beyond
+- Review
+- Course Wrap-Up
