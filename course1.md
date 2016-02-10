@@ -15,3 +15,8 @@ Learn the foundational elements of how search engines work, how the SEO landscap
 ##### Evolution of SEO
 - Evolution of SEO
 - Review
+
+#### Week 3
+##### Current SEO Best Practices
+- Current SEO Best Practices
+- Review
