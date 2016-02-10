@@ -18,3 +18,4 @@ This Specialization will teach you to optimize website content for the best poss
 
 ### 10/02/2016
 - Finished Week 3 | Current SEO Best Practices in Course 1 | Introduction to Search Engine Optimization
+- Finished Week 4 | SEO of Today, Tomorrow and Beyond & Course Wrap-Up in Course 1 | Introduction to Search Engine Optimization
