@@ -22,3 +22,4 @@ This Specialization will teach you to optimize website content for the best poss
 
 ### 28/03/2016
 - Finished Week 1 | Getting Started and Introduction to On-page SEO in Course 2 | Search Engine Optimization Fundamentals
+- Finished Week 2 | Introduction to Off-page SEO in Course 2 | Search Engine Optimization Fundamentals
