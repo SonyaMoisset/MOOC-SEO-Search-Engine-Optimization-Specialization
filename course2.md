@@ -13,3 +13,8 @@ Gain an understanding of search engine algorithms and how they affect organic se
 ##### Introduction to Off-page SEO
 - Introduction to Off-page SEO
 - Review
+
+#### Week 3
+##### Introduction to Technical SEO
+- Introduction to Technical SEO
+- Review
