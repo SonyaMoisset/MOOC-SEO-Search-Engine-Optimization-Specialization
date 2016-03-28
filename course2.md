@@ -8,3 +8,8 @@ Gain an understanding of search engine algorithms and how they affect organic se
 - Getting Started
 - Introduction to On-page SEO
 - Review
+
+#### Week 2
+##### Introduction to Off-page SEO
+- Introduction to Off-page SEO
+- Review
