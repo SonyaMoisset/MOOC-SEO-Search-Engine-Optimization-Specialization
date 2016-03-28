@@ -18,3 +18,9 @@ Gain an understanding of search engine algorithms and how they affect organic se
 ##### Introduction to Technical SEO
 - Introduction to Technical SEO
 - Review
+
+#### Week 4
+##### Keyword Theory & Research
+- Keyword Theory & Research
+- Review
+- Course Wrap-Up
